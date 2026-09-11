@@ -1,0 +1,9 @@
+{
+    "name": "Anime Sky Force",
+    "short_name": "Sky Force",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#050916",
+    "theme_color": "#070d20",
+    "icons": []
+}
